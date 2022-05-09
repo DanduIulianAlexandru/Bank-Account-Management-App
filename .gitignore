@@ -1,0 +1,7 @@
+cmake-build-debug
+cmake-build-debug-coverage
+cmake-build-default-wsl
+cmake-build-release-wsl
+cmake-build-wsl
+cmake-build-wsl-coverage
+.idea/
